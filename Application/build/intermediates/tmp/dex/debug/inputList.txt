@@ -1,0 +1,9 @@
+/Users/Axat/AndroidStudioProjects/OrderMobil/Application/build/intermediates/classes/debug
+/Users/Axat/AndroidStudioProjects/OrderMobil/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-3596f58344b54dcf7544a6c265e93102a5ebe99b.jar
+/Users/Axat/AndroidStudioProjects/OrderMobil/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-93ad07ee8402ce52dab715483d522a990e0d21cd.jar
+/Users/Axat/AndroidStudioProjects/OrderMobil/Application/build/intermediates/pre-dexed/debug/classes-def4dd7850ceb739685c5587961cbc75ab42701f.jar
+/Users/Axat/AndroidStudioProjects/OrderMobil/Application/build/intermediates/pre-dexed/debug/classes-85fb85ceef0f7656ff9d9583937ecb186f242a11.jar
+/Users/Axat/AndroidStudioProjects/OrderMobil/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b023ab4020506313b1ba81b9a3bf5465db682619.jar
+/Users/Axat/AndroidStudioProjects/OrderMobil/Application/build/intermediates/pre-dexed/debug/classes-e93a315d89fa390effd14e637a165edbb64137ae.jar
+/Users/Axat/AndroidStudioProjects/OrderMobil/Application/build/intermediates/pre-dexed/debug/classes-b0de11ddb782a5950a8b2105f533335b95caf7f1.jar
+/Users/Axat/AndroidStudioProjects/OrderMobil/Application/build/intermediates/pre-dexed/debug/classes-76e681ac1e2ebc2c93d47b659ef58b7adf732cae.jar
